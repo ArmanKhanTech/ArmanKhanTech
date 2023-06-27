@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🧑‍🎓 I'm currently **3rd year engineering student.**
+- 🧑‍🎓 I'm currently a **3rd year engineering student.**
   
 - 🔭 I’m currently working on **Android Development, Cross-Platfrom Development & AI Development.**
 
@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,c,c++,py,dart,androidstudio,flutter,ai,sql,sqlite,firebase,git,github,materialui,nodejs,expressjs,figma,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,c,cpp,py,dart,androidstudio,flutter,ai,sqlite,firebase,git,github,materialui,nodejs,expressjs,figma,vscode&perline=14" />
   </a>
 </p>
 

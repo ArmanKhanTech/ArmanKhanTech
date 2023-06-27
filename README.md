@@ -31,8 +31,6 @@
 
 - 🌱 I’m currently learning **Flutter & Machine Learning.**
 
-- ☁️ I've keen interest in Cross-Platfrom Development. So,I'm learning **Flutter.**
-
 - 💬 Ask me about **Android Development.**
 
 - 📫 Feel free to reach me out **ak2341776@gmail.com**

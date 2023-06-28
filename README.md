@@ -27,9 +27,9 @@
 <!--Intro start-->
 - 🧑‍🎓 I'm currently a **3rd year engineering student.**
   
-- 🔭 I’m currently working on **Android Development, Cross-Platfrom Development & AI Development.**
+- 🔭 Currently working on **Android Development, Cross-Platfrom Development & AI Development.**
 
-- 🌱 I’m currently learning **Flutter & Machine Learning.**
+- 🌱 Currently learning **Flutter & Machine Learning.**
 
 - 💬 Ask me about **Android Development.**
 

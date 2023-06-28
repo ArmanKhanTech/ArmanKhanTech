@@ -81,7 +81,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,c,cpp,py,dart,androidstudio,flutter,ai,sqlite,firebase,git,github,materialui,nodejs,expressjs,figma,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,c,cpp,py,dart,androidstudio,flutter,ai,sqlite,firebase,git,github,materialui,nodejs,expressjs&perline=14" />
   </a>
 </p>
 

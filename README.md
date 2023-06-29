@@ -56,7 +56,6 @@
     </a>
 </div>
 
-
 </p>        
 
 
@@ -70,7 +69,6 @@
     <img src="https://skillicons.dev/icons?i=java,html,css,js,c,cpp,py,dart,androidstudio,flutter,ai,sqlite,firebase,git,github,materialui,nodejs,expressjs&perline=14" />
   </a>
 </p>
-
 
 <div id="user-content-toc">
   <ul align="center">

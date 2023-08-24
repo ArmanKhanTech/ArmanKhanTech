@@ -6,18 +6,15 @@
   </ul>
 </div>
 
-
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
-
 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Eat, Sleep, Code, Repeat</h2></summary>
   </ul>
 </div>
-
 
 - 🧑‍🎓 I'm currently a **3rd year engineering student.**
   
@@ -107,7 +104,7 @@
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </p>
   
 ### Version Control and Design Tools

@@ -1,20 +1,18 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+<br>
+<br>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Arman</h1></summary>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&pause=500&center=true&width=435&color=0096FF&size=35&lines=Hi👋,+I+am+Arman" alt="Typing SVG" /></a>
   </ul>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Eat, Sleep, Code, Repeat</h2></summary>
-  </ul>
-</div>
+<br>
 
 - 🧑‍🎓 I'm currently a **3rd year engineering student.**
   
@@ -94,7 +92,8 @@
  
 ### Databases
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" align="right">
-<br><br>
+<br>
+<br>
  
 <p>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />

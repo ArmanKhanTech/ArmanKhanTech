@@ -35,14 +35,14 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=tokyonight&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=vision-friendly-dark&show_icons=true&count_private=true" />
 <br>
-<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanKhanTech&theme=tokyonight&hide_border=false" /> 
+<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanKhanTech&theme=vision-friendly-dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArmanKhanTech&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanKhanTech&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"/>
 
 </td>
 </tr>

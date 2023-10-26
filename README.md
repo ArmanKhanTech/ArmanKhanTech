@@ -34,11 +34,13 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=vision-friendly-dark&show_icons=true&count_private=true" />
 <br>
 <br>
 <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanKhanTech&theme=vision-friendly-dark&hide_border=false" /> 
+<br>
+<br>
 </td>
 
 <td width="50%" align="center">

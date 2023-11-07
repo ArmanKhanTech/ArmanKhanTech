@@ -14,14 +14,16 @@
 
 <br>
 
-- 🧑‍🎓 I'm currently a **3rd year engineering student.**
+- 🧑‍🎓 I'm currently a **3rd year computer engineering student.**
   
-- 🔭 Currently working on **Android Development, Cross-Platfrom Development & AI Development.**
+- 🔭 Currently working on **Web, Native Android, Cross-Platfrom App && AI Development.**
 
-- 🌱 Currently learning **Flutter & Machine Learning.**
+- 🌱 Currently learning **Flutter, Cloud Computing && Machine Learning.**
 
-- 💬 Ask me about **Android Development.**
+- 💬 Ask me about **Native Android || Flutter Development.**
 
+- 👓 Interested in **Backend && Native iOS Development.**
+  
 - 📫 Feel free to reach me out **ak2341776@gmail.com**
 
 <div id="user-content-toc">

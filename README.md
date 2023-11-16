@@ -61,12 +61,6 @@
 
 <br>
 
-<!--<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-readme-stats.vercel.app/api/wakatime?username=ArmanKhanTech" alt="TROPHY" />
-  </a>
-</div>-->
-
 </p>        
 
 <div id="user-content-toc">

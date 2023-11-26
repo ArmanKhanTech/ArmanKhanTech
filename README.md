@@ -162,6 +162,8 @@
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
 </p>
 
+![](./profile-3d-contrib/profile-night-view.svg)
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect with Me 🤝</h2></summary>

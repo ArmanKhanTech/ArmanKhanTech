@@ -7,8 +7,8 @@
 <br>
 
 <div id="user-content-toc">
-  <ul align="center" style="align-self:center;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&pause=500&center=true&width=435&color=0096FF&size=35&lines=Hi👋,+I+am+Arman" alt="Typing SVG" /></a>
+  <ul align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&pause=500&center=true&width=435&color=0096FF&size=35&lines=Hi!+there,+I+am+Arman" alt="Typing SVG" /></a>
   </ul>
 </div>
 

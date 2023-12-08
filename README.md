@@ -16,7 +16,7 @@
 
 - 🧑‍🎓 I'm currently a **3rd year computer engineering student.**
   
-- 🔭 Currently working on **Web, Native Android, Cross-Platfrom App && AI Development.**
+- 🔭 Currently working on **Web, Native Android, Cross-Platfrom Mobile App Development && Machine Learning.**
 
 - 🌱 Currently learning **Flutter, Cloud Computing && Machine Learning.**
 

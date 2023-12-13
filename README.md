@@ -26,42 +26,51 @@
   
 - 📫 Feel free to reach me out **ak2341776@gmail.com**
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My GitHub Stats 1.0 😼</h2></summary>
-  </ul>
-</div>
+<br>
 
-<p align="center">
 <table align="center">
-<tr border="none">
+  <tr>
+    <td colspan="2" align="center">
+      <div id="user-content-toc">
+        <ul align="center">
+          <summary><h2 style="display: inline-block">My GitHub Stats 1.0 😼</h2></summary>
+        </ul>
+      </div>
+    </td>
+  </tr>
   
-<td width="50%" align="center">
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=vision-friendly-dark&show_icons=true&count_private=true"/>
-<hr>
-<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanKhanTech&theme=vision-friendly-dark&hide_border=false"/> 
-<br><br>
-</td>
+  <tr border="none">
+    <td width="50%" align="center">
+      <br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=vision-friendly-dark&show_icons=true&count_private=true"/>
+      <hr>
+      <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanKhanTech&theme=vision-friendly-dark&hide_border=false"/> 
+      <br>
+      <br>
+    </td>
+    <td width="50%" align="center">
+      <br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanKhanTech&layout=pie&langs_count=8&show_icons=true&locale=en&theme=vision-friendly-dark"/>
+      <br>
+      <br>
+    </td>
+  </tr>
 
-<td width="50%" align="center">
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanKhanTech&layout=pie&langs_count=8&show_icons=true&locale=en&theme=vision-friendly-dark"/>
-<br><br>
-</td>
-
-</tr>
+  <tr>
+    <td colspan="2" align="center">
+      <div>
+        <h3>Trophies<h3>
+        <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+          <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+        </a>
+        <br>
+        <br>
+      </div>
+    </td>
+  </tr>
 </table>
 
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?" alt="Trophies" />
-  </a>
-</div>
-
 <br>
-
-</p>        
 
 <div id="user-content-toc">
   <ul align="center">
@@ -177,8 +186,8 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arman-khan-25b624205/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Linkedin" height="50" width="50"/></a>
-<a href="https://hub.docker.com/u/armankhan792" target="_blank"><img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/8bad165f-a84a-4241-aceb-ebd0f200eb3e" alt="Docker" height="75" width="65"/></a>
+  <a href="https://www.linkedin.com/in/arman-khan-25b624205/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Linkedin" height="50" width="50"/></a>
+  <a href="https://hub.docker.com/u/armankhan792" target="_blank"><img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/8bad165f-a84a-4241-aceb-ebd0f200eb3e" alt="Docker" height="75" width="65"/></a>
 </p>
 
 

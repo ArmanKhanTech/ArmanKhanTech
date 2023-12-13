@@ -33,7 +33,7 @@
     <td colspan="2" align="center">
       <div id="user-content-toc">
         <ul align="center">
-          <summary><h2 style="display: inline-block">My GitHub Stats 1.0 😼</h2></summary>
+          <summary><h2 style="display: inline-block">My GitHub Stats 😼</h2></summary>
         </ul>
       </div>
     </td>
@@ -59,12 +59,17 @@
   <tr>
     <td colspan="2">
       <div>
-        <h3>Trophies<h3>
-          <p align="center">
-            <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?" alt="Trophies" />
-          </p>
-        <br>
+        <h3>Trophies</h3>
+        <p align="center">
+          <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+        </p>
       </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
     </td>
   </tr>
 </table>
@@ -170,13 +175,6 @@
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My GitHub Stats 2.0 😼</h2></summary>
-  </ul>
-</div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div id="user-content-toc">
   <ul align="center">

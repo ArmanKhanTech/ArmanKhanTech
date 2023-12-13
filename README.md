@@ -57,13 +57,12 @@
   </tr>
 
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2">
       <div>
         <h3>Trophies<h3>
-        <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-          <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?" alt="Trophies" />
-        </a>
-        <br>
+          <p align="center">
+            <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?" alt="Trophies" />
+          </p>
         <br>
       </div>
     </td>

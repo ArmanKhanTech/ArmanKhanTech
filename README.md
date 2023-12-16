@@ -184,13 +184,13 @@
 
 <p align="center">
   <a href="https://www.armankhan.tech" target="_blank">
-    <img align="center" height="55" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+    <img align="center" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Portfolio" height="55"/>
   </a>
   <a href="https://www.linkedin.com/in/arman-khan-25b624205/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Linkedin" height="50" width="50"/>
   </a>
   <a href="https://hub.docker.com/u/armankhan792" target="_blank">
-    <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/8bad165f-a84a-4241-aceb-ebd0f200eb3e" alt="Docker" height="75" width="65"/>
+    <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/57eb9c43-ceff-4e1a-af99-23a58fd970d0" alt="Docker" height="52" width="50"/>
   </a>
 </p>
 

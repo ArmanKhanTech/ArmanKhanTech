@@ -190,7 +190,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Linkedin" height="50" width="50"/>
   </a>
   <a href="https://hub.docker.com/u/armankhan792" target="_blank">
-    <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/57eb9c43-ceff-4e1a-af99-23a58fd970d0" alt="Docker" height="52" width="50"/>
+    <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/57eb9c43-ceff-4e1a-af99-23a58fd970d0" alt="Docker" height="50" width="50"/>
   </a>
 </p>
 

@@ -14,13 +14,13 @@
 
 <br>
 
-- 🧑‍🎓 I'm currently a **3rd year computer engineering student.**
+- 🧑‍🎓 I'm currently a **3rd year computer engineering student from India.**
   
-- 🔭 Currently working on **Web, Native Android + Cross-Platfrom Mobile App Development && Machine Learning.**
+- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Mobile App Development && Machine Learning.**
 
-- 🌱 Currently learning **Flutter, Cloud Computing && Machine Learning.**
+- 🌱 Currently learning **Flutter, Cloud Computing, Dev-Ops && Machine Learning.**
 
-- 💬 Ask me about **Native Android || Flutter Development.**
+- 💬 Ask me about **Native Android || Flutter Mobile App Development.**
 
 - 👓 Interested in **Backend && Native iOS Development.**
   
@@ -196,9 +196,7 @@
 
 
 <div align="center">
-  
 [![](https://visitcount.itsvg.in/api?id=ArmanKhanTech&icon=3&color=6)](https://visitcount.itsvg.in)
-  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">

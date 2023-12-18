@@ -118,7 +118,6 @@
 <p>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 </p>
 
 ### Machine Learning
@@ -133,7 +132,13 @@
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-  
+
+### Serverless Computing
+
+<p>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+</p>
+
 ### Version Control
 
 <p>
@@ -196,7 +201,9 @@
 
 
 <div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=ArmanKhanTech&icon=3&color=6)](https://visitcount.itsvg.in)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">

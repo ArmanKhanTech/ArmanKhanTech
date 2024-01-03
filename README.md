@@ -33,7 +33,7 @@
     <td colspan="2" align="center">
       <div id="user-content-toc">
         <ul align="center">
-          <summary><h2 style="display: inline-block">My GitHub Stats 😼</h2></summary>
+          <summary><h1 style="display: inline-block">My GitHub Stats 😼</h1></summary>
         </ul>
       </div>
     </td>
@@ -78,7 +78,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Know 👨🏻‍💻</h2></summary>
+    <summary><h1 style="display: inline-block">Technologies I Know 👨🏻‍💻</h1></summary>
   </ul>
 </div>
   
@@ -180,7 +180,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect with Me 🤝</h2></summary>
+    <summary><h1 style="display: inline-block">Connect with Me 🤝</h1></summary>
   </ul>
 </div>
 

@@ -76,7 +76,7 @@
 
 <br>
 
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="center">
     <summary><h1 style="display: inline-block">Technologies I Know 👨🏻‍💻</h1></summary>
   </ul>
@@ -101,7 +101,7 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </p>
 
-### Mobile App Development
+### Mobile Application Development
 
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -131,22 +131,17 @@
  
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
-
-### Serverless Computing
-
-<p>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 </p>
 
-### Version Control
+### Version Control System
 
 <p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### Design Tools
+### UI Design Tools
 
 <p>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
@@ -177,11 +172,12 @@
 </p>
 
 
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="center">
     <summary><h1 style="display: inline-block">Connect with Me 🤝</h1></summary>
   </ul>
 </div>
+
 
 <p align="center">
   <a href="https://www.armankhan.tech" target="_blank">

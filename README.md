@@ -16,11 +16,11 @@
 
 - 🧑‍🎓 I'm currently a **3rd year computer engineering student from India.**
   
-- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom App Development && Machine Learning.**
+- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Application Development && Machine Learning.**
 
 - 🌱 Currently learning **Flutter, Cloud Computing, Dev-Ops && Machine Learning.**
 
-- 💬 Ask me about **Native Android || Flutter App Development.**
+- 💬 Ask me about **Native Android || Flutter Application Development.**
 
 - 👓 Interested in **Backend && Native iOS Development.**
   

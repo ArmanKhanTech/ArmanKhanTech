@@ -18,11 +18,11 @@
   
 - 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Application Development && Machine Learning.**
 
-- 🌱 Currently learning **Flutter, Cloud Computing, Dev-Ops && Machine Learning.**
+- 🌱 Currently learning **Native iOS Application Development, Cloud Computing, Dev-Ops && Machine Learning.**
 
 - 💬 Ask me about **Native Android || Flutter Application Development.**
 
-- 👓 Interested in **Backend && Native iOS Development.**
+- 👓 Interested in **Backend Development.**
   
 - 📫 Feel free to reach me out **ak2341776@gmail.com**
 

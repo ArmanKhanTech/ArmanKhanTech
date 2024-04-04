@@ -56,12 +56,12 @@
     </td>
   </tr>
 
-  <tr>
+  <tr align="center">
     <td colspan="2">
       <div>
         <h2>Trophies</h2>
         <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?" alt="Trophies" />
+          <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?&column=4&row=2" alt="Trophies" />
         </p>
       </div>
     </td>

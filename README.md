@@ -59,7 +59,8 @@
   <tr align="center">
     <td colspan="2">
       <div>
-        <h2>Trophies</h2>
+        <summary><h1 style="display: inline-block">Trophies 🏆</h1></summary>
+        <br>
         <p align="center">
           <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?&column=4&row=2" alt="Trophies" />
         </p>

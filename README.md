@@ -16,7 +16,7 @@
 
 - 🧑‍🎓 I'm currently a **3rd year computer engineering student from India.**
   
-- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Application Development && Machine Learning.**
+- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Application Development, Serverless Computing && Machine Learning.**
 
 - 🌱 Currently learning **Native iOS Application Development, Cloud Computing, Dev-Ops && Machine Learning.**
 
@@ -33,7 +33,7 @@
     <td colspan="2" align="center">
       <div id="user-content-toc">
         <ul align="center">
-          <summary><h1 style="display: inline-block">My GitHub Stats 😼</h1></summary>
+          <h1 style="display: inline-block">My GitHub Stats 😼</h1>
         </ul>
       </div>
     </td>
@@ -56,21 +56,21 @@
     </td>
   </tr>
 
+  <tr>
+    <td colspan="2">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+    </td>
+  </tr>
+
   <tr align="center">
     <td colspan="2">
       <div>
         <h1 style="display: inline-block">Trophies 🏆</h1>
         <br>
         <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?&column=4&row=2" alt="Trophies" />
+          <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?&column=6&row=1" alt="Trophies" />
         </p>
       </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
 
 <div id="user-content-toc" align="center">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Technologies I Know 👨🏻‍💻</h1></summary>
+    <h1 style="display: inline-block">Technologies I Know 👨🏻‍💻</h1>
   </ul>
 </div>
   
@@ -175,7 +175,7 @@
 
 <div id="user-content-toc" align="center">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Connect with Me 🤝</h1></summary>
+    <h1 style="display: inline-block">Connect with Me 🤝</h1>
   </ul>
 </div>
 

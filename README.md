@@ -183,7 +183,7 @@
 
 <p align="center">
   <a href="https://www.armankhan.tech" target="_blank">
-    <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/7879cf64-7fe1-435e-b379-d91d9ef5e6fd" alt="Portfolio" height="50" width="50"/>
+    <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/7879cf64-7fe1-435e-b379-d91d9ef5e6fd" alt="Portfolio" height="48" width="48"/>
   </a>
   <a href="https://www.linkedin.com/in/arman-khan-25b624205/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Linkedin" height="50" width="50"/>

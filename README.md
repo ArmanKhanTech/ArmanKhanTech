@@ -14,15 +14,15 @@
 
 <br>
 
-- 🧑‍🎓 I'm currently a **3rd year computer engineering student from India.**
+- 🧑‍🎓 I'm currently a **Final year computer engineering student from India.**
   
-- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Application Development, Serverless Computing && Machine Learning.**
+- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Application Development && Serverless Computing**
 
-- 🌱 Currently learning **Native iOS Application Development, Cloud Computing, Dev-Ops && Machine Learning.**
+- 🌱 Currently learning **Cloud Computing, Dev-Ops && Machine Learning.**
 
 - 💬 Ask me about **Native Android || Flutter Application Development.**
 
-- 👓 Interested in **Backend Development.**
+- 👓 Interested in **System Engineering**
   
 - 📫 Feel free to reach me out **ak2341776@gmail.com**
 

@@ -16,13 +16,13 @@
 
 - 🧑‍🎓 I'm currently a **Final year computer engineering student from India.**
   
-- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Application Development && Serverless Computing**
+- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Application Development && Serverless Computing.**
 
 - 🌱 Currently learning **Cloud Computing, Dev-Ops && Machine Learning.**
 
 - 💬 Ask me about **Native Android || Flutter Application Development.**
 
-- 👓 Interested in **System Engineering**
+- 👓 Interested in **System Engineering.**
   
 - 📫 Feel free to reach me out **ak2341776@gmail.com**
 
@@ -143,14 +143,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-### Design Tools
-
-<p>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
-
 
 ### IDEs
 

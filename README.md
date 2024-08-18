@@ -16,18 +16,19 @@
 
 - 🧑‍🎓 I'm currently a **Final year computer engineering student from India.**
   
-- 🔭 Currently working on **Full-Stack Web Development, Native Android + Cross-Platfrom Application Development && Serverless Computing.**
+- 🔭 Currently working on **Full-Stack Web, Native Android + Cross-Platfrom Application, Desktop Development && Serverless Computing.**
 
-- 🌱 Currently learning **Cloud Computing, Dev-Ops && Machine Learning.**
+- 🌱 Currently learning **DSA, Cloud Computing, Dev-Ops && Machine Learning.**
 
 - 💬 Ask me about **Native Android || Flutter Application Development.**
 
-- 👓 Interested in **System Engineering.**
+- 👓 Passionate about **Backend Engineering.**
   
 - 📫 Feel free to reach me out **ak2341776@gmail.com**
 
-<br>
 
+
+<br>
 <table align="center">
   <tr>
     <td colspan="2" align="center">

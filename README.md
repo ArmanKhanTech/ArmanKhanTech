@@ -83,12 +83,8 @@
     <h1 style="display: inline-block">Technologies I Know 👨🏻‍💻</h1>
   </ul>
 </div>
-  
-### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
+  
 
 ### Full-Stack Web Development
 <p>

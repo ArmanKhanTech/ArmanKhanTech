@@ -185,7 +185,7 @@
 
 
 <p align="center">
-  <a href="https://www.armankhan.tech" target="_blank">
+  <a href="https://portfolioarman.netlify.app/" target="_blank">
     <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/7879cf64-7fe1-435e-b379-d91d9ef5e6fd" alt="Portfolio" height="48" width="48"/>
   </a>
   <a href="https://www.linkedin.com/in/arman-khan-25b624205" target="_blank">

@@ -59,7 +59,7 @@
 
   <tr>
     <td colspan="2">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+      <img src="./profile-3d-contrib/profile-custom.svg"/>
     </td>
   </tr>
 

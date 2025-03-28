@@ -44,14 +44,12 @@
     <td width="50%" align="center">
       <br>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=github_dark&show_icons=true&count_private=true"/>
-      <hr>
-      <img alt="Mark streak" src="https://streak-stats.demolab.com?user=ArmanKhanTech&theme=github-dark-blue&card_width=490"/> 
       <br>
       <br>
     </td>
     <td width="50%" align="center">
       <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanKhanTech&layout=pie&langs_count=8&show_icons=true&locale=en&theme=github_dark"/>
+      <img alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=armankhantech&theme=github-dark-blue&card_height=202" /> 
       <br>
       <br>
     </td>

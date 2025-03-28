@@ -39,20 +39,22 @@
       </div>
     </td>
   </tr>
-  
+
   <tr border="none">
-    <td width="50%" align="center">
-      <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=github_dark&show_icons=true&count_private=true"/>
-      <br>
-      <br>
-    </td>
-    <td width="50%" align="center">
-      <br>
-      <img alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=armankhantech&theme=github-dark-blue&card_height=200" /> 
-      <br>
-      <br>
-    </td>
+    <td width="50%" align="center">       
+     <br>      
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=github_dark&show_icons=true&count_private=true"/>  
+     <hr>       
+     <img alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=armankhantech&theme=github-dark-blue&card_height=200" /> 
+     <br>       
+     <br>     
+    </td>     
+    <td width="50%" align="center">       
+     <br>      
+     <img width=400 height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanKhanTech&layout=pie&langs_count=8&show_icons=true&locale=en&theme=github_dark"/>              
+     <br>       
+     <br>     
+    </td> 
   </tr>
 
   <tr>

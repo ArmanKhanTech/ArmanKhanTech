@@ -49,7 +49,7 @@
     </td>
     <td width="50%" align="center">
       <br>
-      <img alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=armankhantech&theme=github-dark-blue&card_height=202" /> 
+      <img alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=armankhantech&theme=github-dark-blue&card_height=200" /> 
       <br>
       <br>
     </td>

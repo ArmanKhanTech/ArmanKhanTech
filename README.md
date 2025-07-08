@@ -14,17 +14,15 @@
 
 <br>
 
-- 🧑‍🎓 I'm currently a **computer engineering grad from India.**
+- 🧑‍🎓 I'm a **computer engineering grad from India.**
   
-- 🔭 Currently working on **Full-Stack Web Developement.**
+- 🔭 Currently working on **Backend Developement.**
 
 - 🌱 Currently learning **DSA, Cloud Computing, Dev-Ops && Machine Learning.**
 
 - 💬 Ask me about **Native Android || Flutter Application Development.**
-
-- 👓 Passionate about **Backend Engineering.**
   
-- 📫 Feel free to reach me out **ak2341776@gmail.com**
+- 📫 Feel free to reach me out **ak2341776@gmail.com.**
 
 
 

@@ -14,7 +14,7 @@
 
 <br>
 
-- 🧑‍🎓 I'm a **computer engineering grad from India.**
+- 🧑‍🎓 I'm a **computer engineering graduate from India.**
   
 - 🔭 Currently working on **Backend Developement.**
 

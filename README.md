@@ -14,15 +14,11 @@
 
 <br>
 
-- 🧑‍🎓 I'm a **computer engineering graduate from India.**
-  
-- 🔭 Currently working on **Backend Developement.**
-
-- 🌱 Currently learning **DSA, Cloud Computing, Dev-Ops && Machine Learning.**
-
-- 💬 Ask me about **Native Android || Flutter Application Development.**
-  
-- 📫 Feel free to reach me out **ak2341776@gmail.com.**
+- I work as a **Software Engineer in India.**
+- Currently specializing in **Backend Developement.**
+- Exploring **AI && Cloud Computing.**
+- Ask me about **Software Development.**
+- Feel free to reach me out **ak2341776@gmail.com.**
 
 
 
@@ -32,7 +28,7 @@
     <td colspan="2" align="center">
       <div id="user-content-toc">
         <ul align="center">
-          <h1 style="display: inline-block">My GitHub Stats 😼</h1>
+          <h1 style="display: inline-block">GitHub Stats</h1>
         </ul>
       </div>
     </td>
@@ -64,7 +60,7 @@
   <tr align="center">
     <td colspan="2">
       <div>
-        <h1 style="display: inline-block">Trophies 🏆</h1>
+        <h1 style="display: inline-block">Trophies</h1>
         <br>
         <p align="center">
           <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?&column=6&row=1" alt="Trophies" />
@@ -78,7 +74,7 @@
 
 <div id="user-content-toc" align="center">
   <ul align="center">
-    <h1 style="display: inline-block">Technologies I Know 👨🏻‍💻</h1>
+    <h1 style="display: inline-block">Tech Stack</h1>
   </ul>
 </div>
 
@@ -178,7 +174,7 @@
 
 <div id="user-content-toc" align="center">
   <ul align="center">
-    <h1 style="display: inline-block">Connect with Me 🤝</h1>
+    <h1 style="display: inline-block">Connect</h1>
   </ul>
 </div>
 

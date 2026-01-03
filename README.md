@@ -12,15 +12,6 @@
   </ul>
 </div>
 
-<br>
-
-- I work as a **Software Engineer in India.**
-- Currently specializing in **Backend Developement.**
-- Exploring **AI && Cloud Computing.**
-- Ask me about **Software Development.**
-- Feel free to reach me out **ak2341776@gmail.com.**
-
-
 
 <br>
 <table align="center">

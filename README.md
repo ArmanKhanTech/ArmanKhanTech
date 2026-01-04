@@ -54,7 +54,7 @@
         <h1 style="display: inline-block">Trophies</h1>
         <br>
         <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?&column=6&row=1" alt="Trophies" />
+          <img src="https://github-profile-trophy.vercel.app/?username=ArmankHANTECH&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?&column=6&row=1" alt="Trophies" />
         </p>
       </div>
     </td>

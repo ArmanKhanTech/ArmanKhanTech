@@ -48,7 +48,7 @@
     </td>
   </tr>
 
-  <tr align="center">
+  <!--<tr align="center">
     <td colspan="2">
       <div>
         <h1 style="display: inline-block">Trophies</h1>
@@ -58,7 +58,7 @@
         </p>
       </div>
     </td>
-  </tr>
+  </tr>-->
 </table>
 
 <br>
@@ -165,7 +165,7 @@
 
 <div id="user-content-toc" align="center">
   <ul align="center">
-    <h1 style="display: inline-block">Connect</h1>
+    <h1 style="display: inline-block">Contact</h1>
   </ul>
 </div>
 

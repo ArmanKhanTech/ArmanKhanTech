@@ -19,7 +19,7 @@
     <td colspan="2" align="center">
       <div id="user-content-toc">
         <ul align="center">
-          <h1 style="display: inline-block">GitHub Stats</h1>
+          <h1 style="display: inline-block">History</h1>
         </ul>
       </div>
     </td>

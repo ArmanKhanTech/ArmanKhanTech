@@ -171,17 +171,17 @@
 
 
 <p align="center">
-  <a href="https://portfolioarman.netlify.app/" target="_blank">
-    <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/7879cf64-7fe1-435e-b379-d91d9ef5e6fd" alt="Portfolio" height="48" width="48"/>
+ <a href="https://portfolioarman.netlify.app">
+    <img src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/7879cf64-7fe1-435e-b379-d91d9ef5e6fd" height="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/arman-khan-25b624205" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50"/>
+  <a href="https://www.linkedin.com/in/arman-khan-25b624205">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50"/>
   </a>
-  <a href="https://hub.docker.com/u/armankhan792" target="_blank">
-    <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/57eb9c43-ceff-4e1a-af99-23a58fd970d0" alt="DockerHub" height="50" width="50"/>
+  <a href="https://hub.docker.com/u/armankhan792">
+    <img src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/57eb9c43-ceff-4e1a-af99-23a58fd970d0" height="50"/>
   </a>
-  <a href="https://stackoverflow.com/users/22178475/armankhantech" target="_blank">
-    <img align="center" src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/e47611b2-ecad-4e61-85c7-972f4de150bf" alt="StackOverflow" height="50" width="50"/>
+  <a href="https://stackoverflow.com/users/22178475/armankhantech">
+    <img src="https://github.com/ArmanKhanTech/ArmanKhanTech/assets/92728787/e47611b2-ecad-4e61-85c7-972f4de150bf" height="50"/>
   </a>
 </p>
 

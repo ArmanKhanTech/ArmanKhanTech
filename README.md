@@ -19,7 +19,7 @@
     <td colspan="2" align="center">
       <div id="user-content-toc">
         <ul align="center">
-          <h1 style="display: inline-block">History</h1>
+          <h1 style="display: inline-block">Stats & History</h1>
         </ul>
       </div>
     </td>
@@ -71,7 +71,7 @@
 
   
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/IIS_Server-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -106,7 +106,7 @@
   <img src="https://img.shields.io/badge/Raspberry_Pi_4-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -116,7 +116,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -125,7 +125,7 @@
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### 🤖 AI & Automation
+### AI & Automation
 <p>
   <img src="https://img.shields.io/badge/LLM%2FSLM_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
